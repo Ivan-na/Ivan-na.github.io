@@ -188,15 +188,8 @@ ul.dropdown-menu>li>a>i.fa {
 	background: #f4f7f9 none repeat scroll 0 0;
 	padding: 10px;
 }
-.BlogAnchor p {
-	font-size: 12px;
-}
 .BlogAnchor .AnchorContent {
 	padding: 5px 0;
-}
-.BlogAnchor li {
-	list-style: outside none none;
-	padding: 1px 0;
 }
 .BlogAnchor a {
 	text-decoration: none;
@@ -217,16 +210,4 @@ ul.dropdown-menu>li>a>i.fa {
 	font-size: 12px;
 	text-indent: 50px;
 	margin-left: 20px;
-}
-.BlogAnchor .toc_h4 {
-	font-size: 11px;
-	text-indent: 65px;
-}
-.BlogAnchor .toc_h5 {
-	font-size: 10px;
-	text-indent: 80px;
-}
-.BlogAnchor .toc_h6 {
-	font-size: 9px;
-	text-indent: 95px;
 }

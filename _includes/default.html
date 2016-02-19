@@ -2,7 +2,11 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta name="baidu-site-verification" content="CfMFKYQchX" />
+
+	{% if site.baidu-site-verification %}
+	<meta name="baidu-site-verification" content="{{ site.baidu-site-verification }}" />
+	{% endif %}
+
 	<title>{{ page.title }}</title>
 	{% if page.description %}
 	<meta name="description" content="{{ page.description }}">
@@ -30,8 +34,19 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 	-->
-
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
+
+	{% if site.baidu-statistic %}
+	<script>
+		var _hmt = _hmt || [];
+		(function() {
+			var hm = document.createElement("script");
+			hm.src = "//hm.baidu.com/hm.js?{{ site.baidu-statistics }}";
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+	{% endif %}
 </head>
 
 <body>

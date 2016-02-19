@@ -7,6 +7,8 @@ exclude: ["backup","README.md"]  # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: ivan-na
+baidu-site-verification: CfMFKYQchX
+baidu-statistics: a26ee32d394b40712f532519b2945ec4
 
 defaults:
   -

@@ -3,8 +3,9 @@ layout: post
 title: 基于Spring Cloud系的微服务架构! - Part01
 categories: [arch]
 tags: [arch, spring, spring-boot, microservices]
-fullview: true
+fullview: false
 comments: true
+description: 写了点代码，是关于Spring Cloud实现的微服务架构，遂记录一下相关过程和代码后面的东西，要不然总是忘....
 ---
 ## 00.顺义，北京
 

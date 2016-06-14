@@ -69,13 +69,13 @@ Cloud系列里面还有个小组织叫Spring-Cloud-Netflix，里面是Netflix系
 
 ### 0104.Angular JS
 
-此处有A图预警
+<big>此处有A图预警</big>
 
 ![A图](http://7xr4lt.com1.z0.glb.clouddn.com/atu.jpg-wm "A")
 
 我对前端技术基本就是 大部分HTML + 一部分JAVASCRIPT + 一点点CSS
 
-所以对于AngularJS这种所谓的MV...VM，基本就是初学者水平，感觉写起来挺简单，因此旧拿他来子写个简单的web page好了.
+所以对于AngularJS这种所谓的MV...VM，基本就是初学者水平，感觉写起来挺简单，因此就拿他来写个高中生水准的web page好了.
 
 不知道用的对不对，A图已送上，懂行的请绕行.
 

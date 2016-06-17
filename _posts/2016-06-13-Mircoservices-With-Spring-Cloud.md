@@ -31,7 +31,7 @@ description: 写了点代码，是关于Spring Cloud实现的微服务架构，�
 
 ![The 12 Factors](http://7xr4lt.com1.z0.glb.clouddn.com/Selection_060.png-wm "12 monkeys")
 
-[The Tweleve-Factor App官网](www.12factor.net)
+[The Tweleve-Factor App官网](http://www.12factor.net)
 
 内容不多说，方法论的东西，往往都是正确的,有用的，虽然一实施起来很容易就变样 :9，例如：设计模式... 但是思想是无价的，努力让自己变得更好吧
 
